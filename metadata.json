@@ -1,0 +1,6 @@
+{
+  "name": "Opportunités Afrique",
+  "description": "Portail d'emplois, concours de la fonction publique, bourses d'études et stages vérifiés en Afrique francophone (Togo, Bénin, Côte d'Ivoire, Sénégal, Cameroun, RDC, Burkina Faso).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
